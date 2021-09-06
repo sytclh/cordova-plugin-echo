@@ -1,0 +1,26 @@
+{
+  "name": "cordova-plugin-echo",
+  "version": "1.0.0",
+  "description": "a test cordova plugin",
+  "types": "./types/index.d.ts",
+  "cordova": {
+    "id": "cordova-plugin-echo",
+    "platforms": [
+      "android"
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sytclh/cordova-plugin-echo.git"
+  },
+  "keywords": [
+    "ecosystem:cordova",
+    "cordova-android"
+  ],
+  "author": "sytc",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sytclh/cordova-plugin-echo/issues"
+  },
+  "homepage": "https://github.com/sytclh/cordova-plugin-echo#readme"
+}
